@@ -1,0 +1,21 @@
+R 1920 1080
+
+NO  ./Textures/walls/Texture_1_Diffuse_64.xpm
+
+SO  ./Textures/walls/Texture_2_Diffuse_64.xpm
+
+WE  ./Textures/walls/Texture_3_Diffuse_64.xpm                                                   
+
+EA  ./Textures/walls/Texture_4_Diffuse_64.xpm
+               
+S   ./Textures/npc/npcmove4.xpm
+
+F 500,200,200
+
+C 200,200,200
+
+111111111111111
+100000E00000111
+10002000000001
+10000000000001
+11111111111111
