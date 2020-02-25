@@ -4,10 +4,10 @@ NO  ./Textures/walls/Texture_1_Diffuse_64.xpm
 
 SO  ./Textures/walls/Texture_2_Diffuse_64.xpm
 
-WE  ./Textures/walls/Texture_3_Diffuse_64.xpm                                                   
+WE  ./Textures/walls/Texture_3_Diffuse_64.xpm
 
 EA  ./Textures/walls/Texture_4_Diffuse_64.xpm
-               
+
 S   ./Textures/npc/npcmove4.xpm
 
 F 200,500,200

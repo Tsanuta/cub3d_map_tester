@@ -1,7 +1,7 @@
 #!/bin/bash
 echo "" > allerror.txt
 x=0
-while [ $x -le 71 ]
+while [ $x -le 75 ]
 do
     ./Cub3D map$x.cub > value.test
     cat value.test >> allerror.txt
@@ -217,7 +217,7 @@ fi
 x=$(( $x + 1 ))
 
 x=0
-while [ $x -le 6 ]
+while [ $x -le 13 ]
 do
     ./Cub3D validmap$x.cub > value.test
     cat value.test >> allerror.txt
