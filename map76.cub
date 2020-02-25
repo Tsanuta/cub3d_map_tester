@@ -1,0 +1,23 @@
+R 1000000000000000000000000000 108000000000000000000000000000000000000000000                  
+                      
+NO  ./Textures/walls/Texture_1_Diffuse_64.xpm                  
+                   
+SO  ./Textures/walls/Texture_2_Diffuse_64.xpm                     
+                  
+WE  ./Textures/walls/Texture_3_Diffuse_64.xpm                   
+                   
+EA  ./Textures/walls/Texture_4_Diffuse_64.xpm                          
+                               
+S   ./Textures/npc/npcmove4.xpm                    
+               
+               
+                  
+F 192,192,192                 
+                   
+C 200,200,200              
+
+       11111 111111  111             
+       1 0N0 0000   00001 11             
+       1  0002000 0000011               
+       100 00    00000 0001   1               
+       11    111111 111 111   1               
