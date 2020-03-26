@@ -7,7 +7,7 @@ SO  ./Textures/walls/Texture_2_Diffuse_64.xpm
 WE  ./Textures/walls/Texture_3_Diffuse_64.xpm
 
 EA  ./Textures/walls/Texture_4_Diffuse_64.xpm
-               
+
 S   ./Textures/npc/npcmove4.xpm
 
 
@@ -16,6 +16,7 @@ S   ./Textures/npc/npcmove4.xpm
 C 200,200,200
 
 F11111111111111
+11111111111111
 10N000000000111
 10002000000001
 10000000000001

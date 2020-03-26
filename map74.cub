@@ -1,0 +1,10 @@
+➜  cub3d_tester ls
+Cub3D         map13.cub     map21.cub     map3.cub      map38.cub     map46.cub     map54.cub     map62.cub     map70.cub     validmap4.cub
+Textures      map14.cub     map22.cub     map30.cub     map39.cub     map47.cub     map55.cub     map63.cub     map71.cub     validmap5.cub
+allerror.txt  map15.cub     map23.cub     map31.cub     map4.cub      map48.cub     map56.cub     map64.cub     map8.cub      validmap6.cub
+map0.cub      map16.cub     map24.cub     map32.cub     map40.cub     map49.cub     map57.cub     map65.cub     map9.cub      value.test
+map0.pub      map17.cub     map25.cub     map33.cub     map41.cub     map5.cub      map58.cub     map66.cub     map_test.sh
+map1.cub      map18.cub     map26.cub     map34.cub     map42.cub     map50.cub     map59.cub     map67.cub     validmap0.cub
+map10.cub     map19.cub     map27.cub     map35.cub     map43.cub     map51.cub     map6.cub      map68.cub     validmap1.cub
+map11.cub     map2.cub      map28.cub     map36.cub     map44.cub     map52.cub     map60.cub     map69.cub     validmap2.cub
+map12.cub     map20.cub     map29.cub     map37.cub     map45.cub     map53.cub     map61.cub     map7.cub      validmap3.cub

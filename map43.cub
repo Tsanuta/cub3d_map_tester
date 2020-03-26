@@ -6,8 +6,8 @@ SO  ./Textures/walls/Texture_2_Diffuse_64.xpm
 
 WE  ./Textures/walls/Texture_3_Diffuse_64.xpm
 
-EA 
-               
+EA
+
 S   ./Textures/npc/npcmove4.xpm
 
 F 192,192,192

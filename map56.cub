@@ -7,10 +7,10 @@ SO  ./Textures/walls/Texture_2_Diffuse_64.xpm
 WE  ./Textures/walls/Texture_3_Diffuse_64.xpm
 
 EA  ./Textures/walls/Texture_4_Diffuse_64.xpm
-               
+
 S   texturedoesnotexist
 
-F Bonjour
+F 200,200,200
 
 C 200,200,200
 

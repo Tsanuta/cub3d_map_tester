@@ -1,7 +1,7 @@
 #!/bin/bash
 echo "" > allerror.txt
 x=0
-while [ $x -le 76 ]
+while [ $x -le 77 ]
 do
     ./Cub3D map$x.cub > value.test
     cat value.test >> allerror.txt
